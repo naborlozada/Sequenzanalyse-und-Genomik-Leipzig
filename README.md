@@ -19,16 +19,27 @@ The MAIN directories:
     * Sequence alignment (*.phy)
     * Reconstructed phylogenetic tree (no bootstrap). Before and after its rename.
     * Reconstructed phylogenetic tree (100X bootstrap). Before and after its rename.
-    * PERL scripts: to obtain the full taxonomy information from NCBI using the ACCESSION numbers
+    * PERL scripts: 
+       To obtain the full taxonomy information from NCBI using the ACCESSION numbers:
     
-     - get taxa.sh
+            get taxa.sh
       
-            to change the fasta headers from ACCESSION to GI numbers || to retrieve specific set of GI number and their taxonomic info from a specific list GI numbers from a fasta sequence.       
+       To change the fasta headers from ACCESSION to GI numbers:
+       
+            change_fasta_headers.pl
+       
+       To retrieve specific set of GI number and their taxonomic info from a specific list GI numbers from a fasta sequence:
+       
+            retrieve_GIs_TAXA_for_myTree_annotation.pl
+       
     * PLOTS: example of the final phylogenetic trees.
           
   - PARAMETRIC:
         - Raw estimation of multiple genomic-signature indices for a genome example (codonw).
-        - R script: command line script that produces a dot-plot (ggplot) showing two color codes.
+        - R script: command line script that produces a dot-plot (ggplot) showing two color codes:
+        
+              make_plot.R
+        
         - PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
