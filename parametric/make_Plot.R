@@ -39,7 +39,7 @@ MY_TABLE_w_genomic_signature_analysis <- read.table(file=args[1], sep="\t", head
 
 
 
-# STEP 2: MAKE a PLOT:
+# MAKE a PLOT:
 # -------------------------------------
 my_plot <- ggplot(MY_TABLE_w_genomic_signature_analysis, aes(x=GC,y=GC3s, colour=CLASS)) +
             geom_point(size=1.5) +
@@ -47,7 +47,7 @@ my_plot <- ggplot(MY_TABLE_w_genomic_signature_analysis, aes(x=GC,y=GC3s, colour
             ylab("GC3s content / CDS") + xlab("GC content (%) / CDS")
             # add more fancy code... 
             # ...
-            # ...
+
 
 # Make a OUTFILE for the PLOT:
 # -------------------------------------
