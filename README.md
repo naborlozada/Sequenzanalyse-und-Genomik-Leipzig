@@ -22,7 +22,7 @@ The MAIN directories:
     * PERL scripts: 
        To obtain the full taxonomy information from NCBI using the ACCESSION numbers:
     
-            get taxa.sh
+            get_taxa.sh
       
        To change the fasta headers from ACCESSION to GI numbers:
        
@@ -35,22 +35,21 @@ The MAIN directories:
     * PLOTS: example of the final phylogenetic trees.
           
   - PARAMETRIC:
-        - Raw estimation of multiple genomic-signature indices for a genome example (codonw).
-        - R script: command line script that produces a dot-plot (ggplot) showing two color codes:
+    * Raw estimation of multiple genomic-signature indices for a genome example (codonw).
+    * R script: command line script that produces a dot-plot (ggplot) showing two color codes:
         
               make_plot.R
         
-        - PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
+    * PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
-## QUESTIONS
+## NOTICE
 
-Alejandro N. Lozada Chavez <n.lozada@hhu.de>
+Alejandro N. Lozada Chavez
 
-This information is free. You can redistribute it and/or modify it under the terms of refer
-to this original source.
+This information is free. You can redistribute it and/or modify.
 
-This resource is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details.
+PERL and R scripts: This resource can be distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
 
