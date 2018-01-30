@@ -46,11 +46,12 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
 
 ### CREDITS
 
-Alejandro N. Lozada Chavez
+Alejandro Nabor Lozada Chavez
+
 
 ### LICENSE & DISTRIBUTION
 
-This information is free. You can redistribute it and/or modify.
+This information is free. You can redistribute it and/or modify for educational or recreational purpose.
 
 PERL and R scripts: This resource can be distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
