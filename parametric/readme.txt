@@ -1,0 +1,17 @@
+Description of this folder:
+
+R script produce two output file: Figure in PDF format, and saved Rdata session.
+
+Run the script:
+
+      Rscript make_plot.R  <INPUT.file>  <OUTPUT.file>  <RDATA.save_image> 
+
+Example files:
+  - INPUT.file: MY_CODONW_DATA_cds_from_genomic.out.txt
+  - OUTPUT.file: RicCom.CDS_genome.pdf          (example 1)
+  - RDATA.saved: RicCom.CDS_genome.RData        (example 1)
+  
+  - OUTPUT.file: Rdefault_output.figure.pdf     (example 2)
+  - RDATA.saved: default_output.Rsession.RData  (example 2)
+  
+  - OUTPUT.file: myPLOT_example1.pdf            (example 3)
