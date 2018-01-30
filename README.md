@@ -5,7 +5,8 @@ Final results from the Bioinformatics course at University of Leipzig
 
 Here you can find the results of HGT detection in the QUERY SEQUENCE (dead-end HGT)
 
-The MAIN directories:
+The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
+
   - POCKET MANUAL: 
     * PDF file first section:
     Description of the step to reconstruct a ML phylogenetic tree, a ML phylogenetic tree
@@ -43,7 +44,7 @@ The MAIN directories:
     * PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
-## NOTICE
+# CREDITS
 
 Alejandro N. Lozada Chavez
 
