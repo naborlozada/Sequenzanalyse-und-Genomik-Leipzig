@@ -1,9 +1,9 @@
 # Sequenzanalyse-und-Genomik-Leipzig-2018
-Final results from the Bioinformatics course at University of Leipzig
 
-"Inferring Horizontal Gene Transfer events"
+This is a small part of the Sequenzanalyse-und-Genomik Course performed at the University of Leipzig.
+This data only represent the "Inferring Horizontal Gene Transfer events" section in this course.
 
-Here you can find the results of HGT detection in the QUERY SEQUENCE (dead-end HGT)
+Here you can find the results of HGT detection in the QUERY SEQUENCE example (dead-end HGT).
 
 The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
 
