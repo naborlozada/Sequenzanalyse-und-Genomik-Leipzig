@@ -45,8 +45,10 @@ my_plot <- ggplot(MY_TABLE_w_genomic_signature_analysis, aes(x=GC,y=GC3s, colour
             geom_point(size=1.5) +
             theme(  axis.text=element_text(size=12), axis.title=element_text(size=14,face="bold")  ) +
             ylab("GC3s content / CDS") + xlab("GC content (%) / CDS")
-
-
+        
+            # add more fancy code... 
+            # ...
+            # ...
 
 # Make a OUTFILE for the PLOT:
 # -------------------------------------
