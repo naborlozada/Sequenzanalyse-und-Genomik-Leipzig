@@ -15,13 +15,13 @@ The MAIN directories:
     Description of the steps to identify potential cases of HGT using parametric methods.
     
   - PHYLOGENETIC: 
-        - Blast hits BEFORE (500) and AFTER (290) the redundancy filtering (*.fasta).
-        - Sequence alignment (*.phy)
-        - Reconstructed phylogenetic tree (no bootstrap). Before and after its rename.
-        - Reconstructed phylogenetic tree (100X bootstrap) Before and after its rename.
-        - PERL scripts: to obtain the full taxonomy information from NCBI using the ACCESSION numbers ||
-            to change the fasta headers from ACCESSION to GI numbers || to retrieve specific set of GI number and their taxonomic info from a specific list GI numbers from a fasta sequence.
-        - PLOTS: example of the final phylogenetic trees.
+    * Blast hits BEFORE (500) and AFTER (290) the redundancy filtering (*.fasta).
+    * Sequence alignment (*.phy)
+    * Reconstructed phylogenetic tree (no bootstrap). Before and after its rename.
+    * Reconstructed phylogenetic tree (100X bootstrap) Before and after its rename.
+    * PERL scripts: to obtain the full taxonomy information from NCBI using the ACCESSION numbers ||
+            to change the fasta headers from ACCESSION to GI numbers || to retrieve specific set of GI number and their taxonomic info from a specific list GI numbers from a fasta sequence.       
+    * PLOTS: example of the final phylogenetic trees.
           
   - PARAMETRIC:
         - Raw estimation of multiple genomic-signature indices for a genome example (codonw).
