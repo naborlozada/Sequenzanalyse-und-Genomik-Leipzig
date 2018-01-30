@@ -20,10 +20,10 @@ The MAIN directories:
         - Reconstructed phylogenetic tree (no bootstrap). Before and after its rename.
         - Reconstructed phylogenetic tree (100X bootstrap) Before and after its rename.
         - PERL scripts: 
-            ::: Obtain the full taxonomy information from NCBI using the ACCESSION numbers
-            ::: Change the fasta headers from ACCESSION to GI numbers.
-            ::: Retrieve specific set of GI number and their taxonomic info from a specific list
-            ::: GI numbers from a fasta sequence.
+            to Obtain the full taxonomy information from NCBI using the ACCESSION numbers
+            to Change the fasta headers from ACCESSION to GI numbers.
+            to Retrieve specific set of GI number and their taxonomic info from a specific list GI numbers from a fasta sequence.
+            
         - PLOTS: example of the final phylogenetic trees.
           
   - PARAMETRIC:
@@ -32,9 +32,9 @@ The MAIN directories:
         - PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
-## COPYRIGHT AND LICENCE
+## QUESTIONS
 
-Copyright (C) 2018 Alejandro N. Lozada Chavez <n.lozada@hhu.de>
+Alejandro N. Lozada Chavez <n.lozada@hhu.de>
 
 This information is free. You can redistribute it and/or modify it under the terms of refer
 to this original source.
