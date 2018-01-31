@@ -46,12 +46,9 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
     * PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
-### CREDITS
+### DISTRIBUTION
 
-Alejandro Nabor Lozada Chavez
-
-
-### LICENSE & DISTRIBUTION
+/// Alejandro Nabor Lozada Chavez ///
 
 This information is free. You can redistribute it and/or modify for educational or recreational purpose.
 
