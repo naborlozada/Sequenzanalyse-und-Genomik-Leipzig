@@ -1,7 +1,7 @@
 # Sequenzanalyse-und-Genomik-Leipzig
 
-This is a small part of the Sequenzanalyse-und-Genomik Course performed at the University of Leipzig.
-This data only represent the "Inferring Horizontal Gene Transfer events" section in this course.
+This is a small section of the 'Sequenzanalyse-und-Genomik Course' performed at the University of Leipzig. 
+This information only represents the "Inferring Horizontal Gene Transfer events" section in this course.
 
 Here you can find the results of HGT detection in the QUERY SEQUENCE example (dead-end HGT). The HGT gene is used here as
 example represent a subunit of the F-type ATPase (atpC) which has been found product of HGT and ithas been described as no
