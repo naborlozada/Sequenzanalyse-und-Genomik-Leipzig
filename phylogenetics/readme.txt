@@ -29,4 +29,4 @@ This directory contains two subdirectories with genes used as cases to detect HG
     * Case 2: Bioinformatics 26(12):1473-6 (2010).
    
     
-    
+Additional files, such as the taxonomy information from NCBI (myTAXA_info.txt) obtained via get_taxa.sh, or two-columns table to rename the tree (myFinal_leaf_names.LABELS.txt), or the codonw output short-example (MAIN_TAXA_info_tables.xlxs in excel) is also provided.
