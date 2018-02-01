@@ -4,7 +4,8 @@
 
 
 Bash and Perl scripts are used in the PHYLOGENETIC analysis, while the R script
-for the PARAMETRIC analysis.
+for the PARAMETRIC analysis. READ the instructions in each script (at the beginning
+of each code) to avoid problems. 
 
 	* PHYLOGENETIC:
 	
