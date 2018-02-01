@@ -58,7 +58,7 @@ This information is free. You can redistribute it and/or used for educational or
 
 PERL and R scripts: This resource can be distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. These scripts can be
-redistribute it and/or used and/or modified for educational or recreational purpose.
+redistribute it and/or used and/or modified for your research, educational or recreational purpose.
 
 
 
