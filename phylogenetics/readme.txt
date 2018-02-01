@@ -19,7 +19,11 @@ This directory contains two subdirectories with genes used as cases to detect HG
                     2) the 'outtree' produced by Phylip (the consensus tree), and
                     3) the renamed 'outtree' tree *.new_labels.tree
     
-    
+  4) A quick example to reconstruct a phylogenetic tree using 9 sequences from Archaea (quick_TREE_example).
+     A phylogenetic tree describing these orthologous genes, as well a consensus tree (obtained with 20 bootstrapped trees)
+     that tries to support such tree topology and association of the orthologous genes.
+ 
+ 
  Reference:
     * Case 1: Nature 517:77-80 (2015).
     * Case 2: Bioinformatics 26(12):1473-6 (2010).
