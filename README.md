@@ -1,4 +1,4 @@
-# Sequenzanalyse-und-Genomik-Leipzig-2018
+# Sequenzanalyse-und-Genomik-Leipzig
 
 This is a small part of the Sequenzanalyse-und-Genomik Course performed at the University of Leipzig.
 This data only represent the "Inferring Horizontal Gene Transfer events" section in this course.
