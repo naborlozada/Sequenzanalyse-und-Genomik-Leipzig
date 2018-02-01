@@ -39,6 +39,8 @@ REFERENCES:
 
     * PDF file second section: 
     Description of the steps to identify potential cases of HGT using parametric methods.
+    * Additional helpful files: examples of the taxonomy table, rename leaves in the trees, and
+    the codonW output before and after to be plotted.
     
   - PHYLOGENETIC: 
     * Sequence alignment (*.phy)
