@@ -20,7 +20,7 @@ are presented:
    tries to support such tree topology and relation of the orthologous genes. PHYLOGENETIC ANALYSIS.
 
 
-REFRENCE:
+REFERENCES:
     * Case 1:  Nature 517:77-80 (2015).
     * Case 2:  Bioinformatics 26(12):1473-6 (2010).
     * Case 3:  J. Mol. Evol. 44: 383-397 (1994).
@@ -29,7 +29,7 @@ REFRENCE:
 
 
 
-/// The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS   ///
+--- The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS ---
 
 
   - POCKET MANUAL: 
