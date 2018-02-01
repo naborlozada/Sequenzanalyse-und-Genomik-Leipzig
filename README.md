@@ -46,7 +46,7 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS.
 
 
 ### CREDITS:
-The "Sequenzanalyse-und-Genomik" course was taking place at the University of Leizpig (Germany), and was coordinated by Stephan Bernhart, Zasha Weinberg, and Sonja Prohaska. Additional support was provided from: Ada Andrades, Alexander Holzenleiter, Franziska Reinhardt, Jessica Huebner, and Johanna Dobbriner.
+The "Sequenzanalyse-und-Genomik" course was taking place at the University of Leizpig (Germany), and was coordinated by Stephan Bernhart, Zasha Weinberg, and Sonja Prohaska. Additional support was provided by: Ada Andrades, Alexander Holzenleiter, Franziska Reinhardt, Jessica Huebner, and Johanna Dobbriner.
 
 Course info: https://www.bioinf.uni-leipzig.de/teaching/currentClasses/class236.html 
 
