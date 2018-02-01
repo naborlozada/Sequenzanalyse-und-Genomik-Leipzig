@@ -79,11 +79,11 @@ Course info: https://www.bioinf.uni-leipzig.de/teaching/currentClasses/class236.
 
 
 ### DISTRIBUTION
-This information is free. You can redistribute it and/or used for educational or recreational purpose.
+This information is free. You can redistribute it and/or use it for educational or recreational purpose.
 
 PERL and R scripts: This resource can be distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. These scripts can be
-redistribute it and/or used and/or modified for your research, educational or recreational purpose.
+redistributed and/or used and/or modified for your research, educational or recreational purpose.
 
 
 
