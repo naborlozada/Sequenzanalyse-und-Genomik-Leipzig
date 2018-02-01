@@ -46,13 +46,19 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
     * PLOTS: two dot-plot examples of Genomic signatures based on the 'codonw' estimation.
 
 
+### CREDITS:
+The "Sequenzanalyse-und-Genomik" course was taking place at the University of Leizpig (Germany), and was coordinated by Stephan Bernhart, Zasha Weinberg, and Sonja Prohaska. Additional support was provided from: Ada Andrades, Alexander Holzenleiter, Franziska Reinhardt, Jessica Huebner, and Johanna Dobbriner.
+
+
 ### DISTRIBUTION
 
-/// Alejandro Nabor Lozada Chavez ///
+This information is free. You can redistribute it and/or used for educational or recreational purpose.
 
-This information is free. You can redistribute it and/or modify for educational or recreational purpose.
+PERL and R scripts: This resource can be distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. These scripts can be
+redistribute it and/or used and/or modified for educational or recreational purpose.
 
-PERL and R scripts: This resource can be distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.
+
+
+			---   Alejandro Nabor Lozada Chavez   ---
 
