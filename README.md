@@ -3,11 +3,35 @@
 This is a section of the 'Sequenzanalyse-und-Genomik Course' performed at the University of Leipzig. 
 This information only represents the "Inferring Horizontal Gene Transfer events" section in this course.
 
-Here you can find the results of HGT detection in the QUERY SEQUENCE example (dead-end HGT). The HGT gene is used here as
-example represent a subunit of the F-type ATPase (atpC) which has been found product of HGT and ithas been described as no
-longer  functional (REF1).
+Here you can find the results of HGT detection using QUERY SEQUENCES of the examples. Four example cases
+are presented: 
 
+1) A dead-end HGT, where a subunit of the F-type ATPase (atpC), which has been found to be a product of
+   HGT, and it has been described as no longer functional (REF1). PHYLOGENETIC ANALYSIS.
+
+2) A “re-thinking” example about the complexity hypothesis. A ribosomal protein was found to be product
+   of transfer between archaea and bacteria (REF2). PHYLOGENETIC ANALYSIS.
+ 
+3) Recent HGT events were reported by Lawrence and Ochman for E. coli (Ref3). Here, one gene was taken as example
+   to illustrate such event. PARAMETRIC ANALYSIS.
+
+4) A quick example to reconstruct a phylogenetic tree using 9 sequences from Archaea. A phylogenetic tree
+   describing these orthologous genes, as well a consensus tree (obtained with 20 bootstrapped trees) that
+   tries to support such tree topology and relation of the orthologous genes. PHYLOGENETIC ANALYSIS.
+
+
+# -----------------------------------------------------
+REFRENCE:
+    * Case 1:  Nature 517:77-80 (2015).
+    * Case 2:  Bioinformatics 26(12):1473-6 (2010).
+    * Case 3:  J. Mol. Evol. 44: 383-397 (1994).
+# -----------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
 The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS.
+----------------------------------------------------------------------------
 
   - POCKET MANUAL: 
     * PDF file first section:
@@ -19,7 +43,7 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS.
     
   - PHYLOGENETIC: 
     * Sequence alignment (*.phy)
-    * Reconstructed phylogenetic tree (no bootstrap). Before and after to be renamed.
+    * Reconstructed phylogenetic tree (no bootstrap). Before and after to be renamed.
     * Reconstructed phylogenetic tree (100X bootstrap). Before and after to be renamed.
     * PERL scripts: 
        To obtain the full taxonomy information from NCBI using the ACCESSION numbers:
