@@ -30,5 +30,5 @@ This directory contains two subdirectories with genes used as cases to detect HG
    
     
 Additional files, such as the taxonomy information from NCBI (myTAXA_info.txt) obtained via get_taxa.sh, or two-columns table to
-rename the tree (myFinal_leaf_names.LABELS.txt), or the codonw output short-example (MAIN_TAXA_info_tables.xlxs in excel) is also
+rename the tree (myFinal_leaf_names.LABELS.txt), or the codonw output short-example (MAIN_TAXA_info_tables.xlxs in excel) are
 provided.
