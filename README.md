@@ -7,7 +7,7 @@ Here you can find the results of HGT detection in the QUERY SEQUENCE example (de
 example represent a subunit of the F-type ATPase (atpC) which has been found product of HGT and ithas been described as no
 longer  functional (REF1).
 
-The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
+The MAIN directories: POCKET MANUAL, PHYLOGENETIC, PARAMETRIC, and SCRIPTS.
 
   - POCKET MANUAL: 
     * PDF file first section:
@@ -18,10 +18,9 @@ The MAIN directories: POCKET MANUAL, PHYLOGENETIC, and PARAMETRIC.
     Description of the steps to identify potential cases of HGT using parametric methods.
     
   - PHYLOGENETIC: 
-    * Blast hits BEFORE (500) and AFTER (290) the redundancy filtering (*.fasta).
     * Sequence alignment (*.phy)
-    * Reconstructed phylogenetic tree (no bootstrap). Before and after its rename.
-    * Reconstructed phylogenetic tree (100X bootstrap). Before and after its rename.
+    * Reconstructed phylogenetic tree (no bootstrap). Before and after to be renamed.
+    * Reconstructed phylogenetic tree (100X bootstrap). Before and after to be renamed.
     * PERL scripts: 
        To obtain the full taxonomy information from NCBI using the ACCESSION numbers:
     
