@@ -75,7 +75,9 @@ The "Sequenzanalyse-und-Genomik" course took place at the University of Leizpig 
 
 Additional support was provided by: Ada Andrades, Alexander Holzenleiter, Franziska Reinhardt, Jessica Huebner, and Johanna Dobbriner.
 
-Course info: https://www.bioinf.uni-leipzig.de/teaching/currentClasses/class236.html 
+Course info (Sequenzanalyse und Genomik (Modul 10-202-2207)): [Class 247](http://legacy.bioinf.uni-leipzig.de/teaching/pastClasses/class247.html). \
+Course info (Sequenzanalyse und Genomik (Modul 10-202-2207)): [Class 236](http://legacy.bioinf.uni-leipzig.de/teaching/pastClasses/class236.html).
+
 
 
 ### DISTRIBUTION
@@ -87,7 +89,7 @@ redistributed and/or used and/or modified for your research, educational or recr
 
 
 
-			---   Alejandro Nabor Lozada Chavez   ---
+			                  ---   Alejandro Nabor Lozada Chavez   ---
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
